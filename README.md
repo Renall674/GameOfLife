@@ -6,7 +6,7 @@ include/"папку include из SDL2 скачанного"
 lib/"папку lib из SDL2 скачанного"     
 cmake/"папку cmake из SDL2 скачанного" и SDL2.dll     
 Создать папку scr/ в нее добавить:
-Source.cpp
+Source.cpp.
 Добавить в папку проекта CMakeLists.txt
 
 ## Сборка:

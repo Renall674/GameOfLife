@@ -4,8 +4,7 @@ GameOfLife:
 Создать в папке проекта папки libs/SDL2/ в них добавить:         
 include/"папку include из SDL2 скачанного"
 lib/"папку lib из SDL2 скачанного"     
-cmake/"папку cmake из SDL2 скачанного"
-SDL2.dll     
+cmake/"папку cmake из SDL2 скачанного" и SDL2.dll     
 Создать папку scr/ в нее добавить:
 Source.cpp
 Добавить в папку проекта CMakeLists.txt

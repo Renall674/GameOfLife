@@ -10,13 +10,13 @@ Source.cpp.
 Добавить в папку проекта CMakeLists.txt
 
 ## Сборка:
-git clone https://git.deviks.io/Renall674/GameOfLife.git
-cd "ваш путь"/GameOfLife
-mkdir build && cd build
-cmake ..
-cmake --build . --config Release
-Скопируйте SDL2.dll в папку с GameOfLife.exe
-Запустите .exe файл в папке Release
+1)git clone https://git.deviks.io/Renall674/GameOfLife.git
+2)cd "ваш путь"/GameOfLife
+3)mkdir build && cd build
+4)cmake ..
+5)cmake --build . --config Release
+6)Скопируйте SDL2.dll в папку с GameOfLife.exe
+7)Запустите .exe файл в папке Release
 
 ## Запуск с параметрами:
 GameOfLife.exe --width 1000 --height 800 --grid 30 --speed 50

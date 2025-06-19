@@ -1,15 +1,14 @@
 # GameOfLife
 ## Структура:
-GameOfLife/
-    libs/
-        SDL2/          
-            include/"папку include из SDL2 скачанного"
-            lib/"папку lib из SDL2 скачанного"     
-            cmake/"папку cmake из SDL2 скачанного"
-        SDL2.dll     
-    scr/
-        Source.cpp
-    CMakeLists.txt
+GameOfLife:
+Создать в папке проекта папки libs/SDL2/ в них добавить:         
+include/"папку include из SDL2 скачанного"
+lib/"папку lib из SDL2 скачанного"     
+cmake/"папку cmake из SDL2 скачанного"
+SDL2.dll     
+Создать папку scr/ в нее добавить:
+Source.cpp
+Добавить в папку проекта CMakeLists.txt
 
 ## Сборка:
 git clone https://git.deviks.io/Renall674/GameOfLife.git

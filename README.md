@@ -12,7 +12,7 @@ Source.cpp.
 Добавить в папку проекта CMakeLists.txt
 
 ## Сборка:
-1)git clone https://git.deviks.io/Renall674/GameOfLife.git
+1)git clone https://github.com/Renall674/GameOfLife.git
 2)cd "ваш путь"/GameOfLife
 3)mkdir build && cd build
 4)cmake ..
